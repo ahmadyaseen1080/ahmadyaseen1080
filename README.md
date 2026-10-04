@@ -14,11 +14,9 @@ I work on practical automation workflows connecting CRMs, AI tools, and business
 - Google Sheets / Airtable-based tracking
 - Workflow troubleshooting, error handling, and testing
 
-### A relevant workflow pattern
+### Selected workflow documentation
 
-A Make automation for processing incoming data, looking up Shopify order context, passing information to Claude, parsing structured JSON, routing by result, and triggering Gmail responses.
-
-Any public example should use sanitized data, without client-private information or credentials.
+- [Make: Gmail + Shopify + Claude routing](projects/make-gmail-shopify-claude/README.md) — documented scenario architecture and conditional email processing (no production metrics claimed).
 
 ### Upwork
 
